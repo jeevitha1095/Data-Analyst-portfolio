@@ -28,3 +28,7 @@ This project simulates customer satisfaction analysis using structured sample da
 
 ## Note
 This is a portfolio demonstration project created to showcase data analysis thinking and dashboard design approach.
+## Possible Dashboard Metrics
+- Customer Satisfaction Score Trend
+- Retention Rate by Channel
+- Purchase Frequency by Segment
