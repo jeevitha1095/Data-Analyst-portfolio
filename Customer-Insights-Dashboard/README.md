@@ -14,3 +14,17 @@ Analyze customer behaviour patterns and satisfaction trends using dashboard anal
 
 ## Business Impact
 Provided actionable insights to improve customer experience and retention.
+## Dataset (Sample)
+This project simulates customer satisfaction analysis using structured sample data including:
+- Customer ID
+- Purchase frequency
+- Satisfaction score
+- Region and channel data
+
+## Sample Insights
+- Segment B customers show higher churn risk
+- Satisfaction decreases after repeated support tickets
+- Online channel users have higher retention rate
+
+## Note
+This is a portfolio demonstration project created to showcase data analysis thinking and dashboard design approach.
